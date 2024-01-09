@@ -1,8 +1,0 @@
-#package yang digunakan dalam melakukan RShiny E-Commerce
-library(shiny)
-library(shinydashboard)
-library(plotly)
-library(ggplot2)
-library(gridExtra)
-library(shinythemes)
-library(rsconnect)
